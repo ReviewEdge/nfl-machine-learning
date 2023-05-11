@@ -1,5 +1,5 @@
 # nfl-machine-learning
-## Inference Task
+### Inference Task
 Predict whether a given play will be a pass or run\
-## Method
+### Method
 Decision tree
